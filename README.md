@@ -1,4 +1,6 @@
 # awesome-dataset-distillation
+* [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916), ICML 2022,
+Saehyung Lee, Sanghyuk Chun, Sangwon Jung, Sangdoo Yun, Sungroh Yoon
 
 * [Dataset Meta-Learning from Kernel Ridge-Regression](https://openreview.net/forum?id=l-PrrQrK0QR), ICLR 2021, 
 Timothy Nguyen, Zhourong Chen, Jaehoon Lee
@@ -27,9 +29,6 @@ Ilia Sucholutsky; Matthias Schonlau
 * [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929), axiv,
 Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
 
-
-* [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916), axiv,
-Saehyung Lee, Sanghyuk Chun, Sangwon Jung, Sangdoo Yun, Sungroh Yoon
 
 * [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181), axiv,
 Bo Zhao, Hakan Bilen
