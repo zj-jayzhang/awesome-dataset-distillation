@@ -33,3 +33,5 @@ Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
 * [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181), axiv,
 Bo Zhao, Hakan Bilen
 
+* [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916), ICML 2022, Saehyung Lee · SANGHYUK CHUN · Sangwon Jung · Sangdoo Yun · Sungroh Yoon
+
