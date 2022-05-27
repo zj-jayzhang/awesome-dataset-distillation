@@ -14,7 +14,7 @@ Ondrej Bohdal, Yongxin Yang, Timothy Hospedales
 * [Data Distillation: Towards Omni-Supervised Learning](https://openaccess.thecvf.com/content_cvpr_2018/html/Radosavovic_Data_Distillation_Towards_CVPR_2018_paper.html), CVPR 2018,
 Ilija Radosavovic, Piotr Dollár, Ross Girshick, Georgia Gkioxari, Kaiming He
 
-* [Dataset Distillation by Matching Training Trajectories](https://openreview.net/forum?id=l-PrrQrK0QR), CVPR 2022,
+* [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), CVPR 2022,
 George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu
 
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531), CVPR 2022,
