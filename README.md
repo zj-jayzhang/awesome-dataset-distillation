@@ -11,8 +11,6 @@ Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee
 * [Flexible dataset distillation: Learn labels instead of images](https://arxiv.org/abs/2006.08572), NeurIPS 2020,
 Ondrej Bohdal, Yongxin Yang, Timothy Hospedales
 
-* [Data Distillation: Towards Omni-Supervised Learning](https://openaccess.thecvf.com/content_cvpr_2018/html/Radosavovic_Data_Distillation_Towards_CVPR_2018_paper.html), CVPR 2018,
-Ilija Radosavovic, Piotr Dollár, Ross Girshick, Georgia Gkioxari, Kaiming He
 
 * [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), CVPR 2022,
 George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu
@@ -33,5 +31,4 @@ Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
 * [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181), axiv,
 Bo Zhao, Hakan Bilen
 
-* [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916), ICML 2022, Saehyung Lee · SANGHYUK CHUN · Sangwon Jung · Sangdoo Yun · Sungroh Yoon
 
