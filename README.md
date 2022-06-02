@@ -1,4 +1,23 @@
 # awesome-dataset-distillation
+* [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), CVPR 2022,
+George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu
+
+* [DATASET DISTILLATION](https://arxiv.org/abs/1811.10959), axiv,           
+Tongzhou Wang
+
+* [Flexible dataset distillation: Learn labels instead of images](https://arxiv.org/abs/2006.08572), NeurIPS 2020,
+Ondrej Bohdal, Yongxin Yang, Timothy Hospedales
+
+
+* [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929), axiv,
+Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
+
+
+===========
+
+
+
+
 * [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916), ICML 2022,
 Saehyung Lee, Sanghyuk Chun, Sangwon Jung, Sangdoo Yun, Sungroh Yoon
 
@@ -8,12 +27,6 @@ Timothy Nguyen, Zhourong Chen, Jaehoon Lee
 * [Dataset Distillation with Infinitely Wide Convolutional Networks](https://openreview.net/forum?id=hXWPpJedrVP), NeurIPS 2021, 
 Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee
 
-* [Flexible dataset distillation: Learn labels instead of images](https://arxiv.org/abs/2006.08572), NeurIPS 2020,
-Ondrej Bohdal, Yongxin Yang, Timothy Hospedales
-
-
-* [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932), CVPR 2022,
-George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu
 
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531), CVPR 2022,
 Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, Shuo Wang, Guan Huang, Hakan Bilen, Xinchao Wang, Yang You
@@ -24,14 +37,10 @@ Bo Zhao, Hakan Bilen
 * [Soft-Label Dataset Distillation and Text Dataset Distillation](https://ieeexplore.ieee.org/abstract/document/9533769)), IJCNN 2021,
 Ilia Sucholutsky; Matthias Schonlau
 
-* [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929), axiv,
-Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
 
 
 * [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181), axiv,
 Bo Zhao, Hakan Bilen
 
-** * [DATASET DISTILLATION](https://arxiv.org/abs/1811.10959), axiv,**
-Tongzhou Wang
 
 
