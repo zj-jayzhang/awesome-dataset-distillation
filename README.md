@@ -28,7 +28,10 @@ Ilia Sucholutsky; Matthias Schonlau
 Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
 
 
-* [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181), axiv,
-Bo Zhao, Hakan Bilen
+*** [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181), axiv,
+Bo Zhao, Hakan Bilen**
+
+* [DATASET DISTILLATION](https://arxiv.org/abs/1811.10959), axiv,
+Tongzhou Wang
 
 
