@@ -43,4 +43,9 @@ Ilia Sucholutsky; Matthias Schonlau
 Bo Zhao, Hakan Bilen
 
 
+# dc nlp
 
+* [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551), IJCNN 2021,
+Ilia Sucholutsky, Matthias Schonlau
+* [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448),axiv 2021,
+Yongqi Li, Wenjie Li
