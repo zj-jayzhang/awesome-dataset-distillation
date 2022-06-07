@@ -9,11 +9,10 @@ Tongzhou Wang
 Ondrej Bohdal, Yongxin Yang, Timothy Hospedales
 
 
-* [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929), axiv,
+* [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929), ICLR 2021,
 Bo Zhao, Konda Reddy Mopuri, Hakan Bilen
 
 
-===========
 
 
 
