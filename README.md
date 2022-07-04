@@ -30,7 +30,7 @@ Timothy Nguyen, Roman Novak, Lechao Xiao, Jaehoon Lee
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531), CVPR 2022,
 Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, Shuo Wang, Guan Huang, Hakan Bilen, Xinchao Wang, Yang You
 
-* [Dataset Condensation with Differentiable Siamese Augmentation](https://proceedings.mlr.press/v139/zhao21a.html), PMLR 2021,
+* [Dataset Condensation with Differentiable Siamese Augmentation](https://proceedings.mlr.press/v139/zhao21a.html), ICML 2021,
 Bo Zhao, Hakan Bilen 
 
 * [Soft-Label Dataset Distillation and Text Dataset Distillation](https://ieeexplore.ieee.org/abstract/document/9533769)), IJCNN 2021,
