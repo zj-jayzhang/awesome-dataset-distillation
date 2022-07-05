@@ -33,6 +33,10 @@ Kai Wang, Bo Zhao, Xiangyu Peng, Zheng Zhu, Shuo Yang, Shuo Wang, Guan Huang, Ha
 * [Dataset Condensation with Differentiable Siamese Augmentation](https://proceedings.mlr.press/v139/zhao21a.html), ICML 2021,
 Bo Zhao, Hakan Bilen 
 
+* [Dataset Condensation via Efficient Synthetic-Data Parameterization](https://arxiv.org/abs/2205.14959), ICML 2022,
+Jang-Hyun Kim, Jinuk Kim, Seong Joon Oh, Sangdoo Yun, Hwanjun Song, Joonhyun Jeong, Jung-Woo Ha, Hyun Oh Song 
+
+
 * [Soft-Label Dataset Distillation and Text Dataset Distillation](https://ieeexplore.ieee.org/abstract/document/9533769)), IJCNN 2021,
 Ilia Sucholutsky; Matthias Schonlau
 
